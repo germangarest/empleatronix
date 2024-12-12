@@ -3,6 +3,7 @@
 <img src="img/logo.jpg" alt="Empleatronix Logo" width="200"/>
 
 Una aplicación moderna y elegante para visualizar y gestionar datos de empleados de forma interactiva.
+[Visita mi app en Streamlit](https://empleatronix-gge.streamlit.app/)
 
 ## 🚀 Características Principales
 
